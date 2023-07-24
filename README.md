@@ -1,6 +1,4 @@
-# kafka-project
-
-# Getting Started
+# Getting Started kafka-project
  1. Open the project kafka in the terminal and run the docker file with the following command:
     docker-compose up --build
 
